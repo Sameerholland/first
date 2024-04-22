@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89e31494.css",
+    "main.js": "/static/js/main.67f52060.js",
+    "static/media/product1.jpg": "/static/media/product1.e4970d54d687e9f737c3.jpg",
+    "static/media/model1.jpg": "/static/media/model1.7c5106407b11c81da032.jpg",
+    "static/media/trend1.jpg": "/static/media/trend1.0ab062f4df17dbae69c9.jpg",
+    "static/media/trend2.jpg": "/static/media/trend2.f2586a5aa30984abdc09.jpg",
+    "static/media/categoty7.png": "/static/media/categoty7.77ed03961ed1bc88f969.png",
+    "static/media/category1.jpg": "/static/media/category1.a6522f51fbced8de62d8.jpg",
+    "static/media/category2.jpg": "/static/media/category2.56442ebdbbd15e018db2.jpg",
+    "static/media/category5.jpg": "/static/media/category5.de237112e624d1bf16a8.jpg",
+    "static/media/product2.png": "/static/media/product2.1059f41c8e33d02f4a30.png",
+    "static/media/product3.jpg": "/static/media/product3.56c50d039d5fc7ae5bad.jpg",
+    "static/media/category3.jpg": "/static/media/category3.edb483b1025e6e1d91d8.jpg",
+    "static/media/categoroy8.jpg": "/static/media/categoroy8.0fc48986b3222656db65.jpg",
+    "static/media/product4.jpg": "/static/media/product4.4c893f8929d6b1e614d7.jpg",
+    "static/media/categoroy6.jpg": "/static/media/categoroy6.02f8773f60747f4b1bfc.jpg",
+    "static/media/logo2.jpg": "/static/media/logo2.daa488756027c1761583.jpg",
+    "index.html": "/index.html",
+    "main.89e31494.css.map": "/static/css/main.89e31494.css.map",
+    "main.67f52060.js.map": "/static/js/main.67f52060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e31494.css",
+    "static/js/main.67f52060.js"
+  ]
+}
